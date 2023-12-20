@@ -3,7 +3,7 @@
   machinepack-mysql
 </h1>
 
-Structured Node.js bindings for MySQL.
+Structured Node.js bindings for MySQL..
 
 > See https://github.com/node-machine/driver-interface for more background information about this package.
 
